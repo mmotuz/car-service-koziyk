@@ -53,6 +53,7 @@ a {
 }
 
 body {
+    background-image: url('../images/header_bg.jpg');
 }
 
 .mainHeader{

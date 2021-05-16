@@ -68,7 +68,14 @@ body {
     float: left;
     height: 80px;
     margin-right: 20px;
+    margin-top: 13px;
 }
+
+.headerWrapper{
+    width:400px;
+    margin: 0 auto;
+}
+
 
 
 

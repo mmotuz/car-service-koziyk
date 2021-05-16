@@ -61,7 +61,13 @@ body {
     background-image: linear-gradient(to bottom, rgba(20,20,20,0.5), rgba(20,20,20,0.1));
     width: 100%;
     height: 80px;
-    color: #fffff;
+    color: #ffffff;
+}
+
+.headerBlock{
+    float: left;
+    height: 80px;
+    margin-right: 20px;
 }
 
 
